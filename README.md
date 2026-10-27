@@ -16,3 +16,4 @@ Upgrade adm-zip to 0.6.1 or later.
 npm install
 node index.js
 ```
+adm-zip
